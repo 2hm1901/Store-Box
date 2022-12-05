@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Code C#\Day5\Songs\bin\Debug\net6.0\Songs.exe
+C:\Users\Dell\Documents\Code C#\Day5\Songs\bin\Debug\net6.0\Songs.deps.json
+C:\Users\Dell\Documents\Code C#\Day5\Songs\bin\Debug\net6.0\Songs.runtimeconfig.json
+C:\Users\Dell\Documents\Code C#\Day5\Songs\bin\Debug\net6.0\Songs.dll
+C:\Users\Dell\Documents\Code C#\Day5\Songs\bin\Debug\net6.0\Songs.pdb
+C:\Users\Dell\Documents\Code C#\Day5\Songs\obj\Debug\net6.0\Songs.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Code C#\Day5\Songs\obj\Debug\net6.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Code C#\Day5\Songs\obj\Debug\net6.0\Songs.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Code C#\Day5\Songs\obj\Debug\net6.0\Songs.AssemblyInfo.cs
+C:\Users\Dell\Documents\Code C#\Day5\Songs\obj\Debug\net6.0\Songs.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Code C#\Day5\Songs\obj\Debug\net6.0\Songs.dll
+C:\Users\Dell\Documents\Code C#\Day5\Songs\obj\Debug\net6.0\refint\Songs.dll
+C:\Users\Dell\Documents\Code C#\Day5\Songs\obj\Debug\net6.0\Songs.pdb
+C:\Users\Dell\Documents\Code C#\Day5\Songs\obj\Debug\net6.0\Songs.genruntimeconfig.cache
+C:\Users\Dell\Documents\Code C#\Day5\Songs\obj\Debug\net6.0\ref\Songs.dll
